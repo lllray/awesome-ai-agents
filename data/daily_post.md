@@ -1,11 +1,11 @@
 # Daily Report 2026-03-01
 - Repo: Awesome AI Agents
-- New today: 3478 | Total: 3478 | Stars: 9,820,057
+- New today: 3527 | Total: 3527 | Stars: 10,214,218
 - Link: https://github.com/lllray/awesome-ai-agents
 
-## Top 5 New
-1. [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) 182,110⭐ — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
-2. [f/awesome-chatgpt-prompts](https://github.com/f/prompts.chat) 149,371⭐ — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
-3. [langflow-ai/langflow](https://github.com/langflow-ai/langflow) 145,162⭐ — Langflow is a powerful tool for building and deploying AI-powered agents and wor
-4. [langgenius/dify](https://github.com/langgenius/dify) 130,755⭐ — Production-ready platform for agentic workflow development.
-5. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) 127,798⭐ — 🦜🔗 The platform for reliable agents.
+## Top 5 Trending
+1. [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) +483⭐ — Open-source Agent Operating System
+2. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +354⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
+3. [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) +283⭐ — OpenSandbox is a general-purpose sandbox platform for AI applications, offering 
+4. [obra/superpowers](https://github.com/obra/superpowers) +255⭐ — An agentic skills framework & software development methodology that works.
+5. [block/goose](https://github.com/block/goose) +234⭐ — an open source, extensible AI agent that goes beyond code suggestions - install,
