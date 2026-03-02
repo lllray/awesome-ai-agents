@@ -38,16 +38,16 @@
 | 1 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 6,877 | +483 | Open-source Agent Operating System |
 | 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 55,695 | +354 | The agent harness performance optimization system.... |
 | 3 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 3,039 | +283 | OpenSandbox is a general-purpose sandbox platform ... |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | 66,613 | +255 | An agentic skills framework & software development... |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | 66,613 | +255 | 一个有效的智能体技能框架与软件开发方法论。 |
 | 5 | [block/goose](https://github.com/block/goose) | 31,837 | +234 | an open source, extensible AI agent that goes beyo... |
 | 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,024 | +191 | 🌊 The leading agent orchestration platform for Cla... |
 | 7 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 7,117 | +147 | GitNexus: The Zero-Server Code Intelligence Engine... |
 | 8 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 9,999 | +140 | A set of ready to use Agent Skills for research, s... |
-| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 113,447 | +139 | The open source coding agent. |
-| 10 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 88,780 | +127 | Python tool for converting files and office docume... |
-| 11 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,204 | +127 | Claude Code is an agentic coding tool that lives i... |
+| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 113,447 | +139 | 开源编码智能体。 |
+| 10 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 88,780 | +127 | 用于将文件和办公文档转换为Markdown的Python工具。 |
+| 11 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,204 | +127 | Claude Code是一个智能编码工具，驻留在您的终端中，理解您的代码库，并通过执行常规任务、解释... |
 | 12 | [superset-sh/superset](https://github.com/superset-sh/superset) | 2,709 | +126 | IDE for the AI Agents Era - Run an army of Claude ... |
-| 13 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98,526 | +116 | Collection of awesome LLM apps with AI Agents and ... |
+| 13 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98,526 | +116 | 使用OpenAI、Anthropic、Gemini及开源模型，汇集了出色的LLM应用，包含AI智能体... |
 | 14 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 16,868 | +111 | A lightweight alternative to Clawdbot / OpenClaw t... |
 | 15 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 17,545 | +110 | The Ultimate Collection of 900+ Agentic Skills for... |
 | 16 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 3,344 | +108 | Give your AI agent eyes to see the entire internet... |
@@ -564,4 +564,4 @@ git clone https://github.com/lllray/awesome-ai-agents.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:49:10</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:57:07</sub></p>
