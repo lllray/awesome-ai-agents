@@ -1,6 +1,6 @@
-# 每日报告 2026-03-01
+# 每日报告 2026-03-02
 - 仓库: Awesome AI Agents
-- 今日新增: 3527 | 总数: 3527 | Stars: 10,214,218
+- 今日新增: 0 | 总数: 3527 | Stars: 10,214,218
 - 链接: https://github.com/lllray/awesome-ai-agents
 
 ## 热门 Top 5

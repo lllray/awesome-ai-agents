@@ -1,6 +1,6 @@
-# Daily Report 2026-03-01
+# Daily Report 2026-03-02
 - Repo: Awesome AI Agents
-- New today: 3527 | Total: 3527 | Stars: 10,214,218
+- New: 0 | Total: 3527 | Stars: 10,214,218
 - Link: https://github.com/lllray/awesome-ai-agents
 
 ## Top 5 Trending

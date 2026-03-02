@@ -4,7 +4,7 @@
 
 > Curated collection of AI agent frameworks, orchestration tools & multi-agent platforms — auto-collected from GitHub
 
-![Total](https://img.shields.io/badge/Total-3527-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-10214k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-3527-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-01-orange?style=flat-square)
+![Total](https://img.shields.io/badge/Total-3527-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-10214k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-0-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-02-orange?style=flat-square)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🔥 Daily Trending (2026-03-01)
+## 🔥 Daily Trending (2026-03-02)
 
 | # | Project | ⭐ | 📈 Gain | Description |
 |:-:|---------|---:|-------:|-------------|
@@ -40,21 +40,21 @@
 | 3 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 3,039 | +283 | OpenSandbox is a general-purpose sandbox platform for AI app |
 | 4 | [obra/superpowers](https://github.com/obra/superpowers) | 66,613 | +255 | An agentic skills framework & software development methodolo |
 | 5 | [block/goose](https://github.com/block/goose) | 31,837 | +234 | an open source, extensible AI agent that goes beyond code su |
-| 6 | [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) | 3,809 | +208 | Agent skill that generates rich HTML pages or slide decks fo |
-| 7 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,024 | +191 | 🌊 The leading agent orchestration platform for Claude. Deplo |
-| 8 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 7,117 | +147 | GitNexus: The Zero-Server Code Intelligence Engine -       G |
-| 9 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 9,999 | +140 | A set of ready to use Agent Skills for research, science, en |
-| 10 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 113,447 | +139 | The open source coding agent. |
-| 11 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 88,780 | +127 | Python tool for converting files and office documents to Mar |
-| 12 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,204 | +127 | Claude Code is an agentic coding tool that lives in your ter |
-| 13 | [superset-sh/superset](https://github.com/superset-sh/superset) | 2,709 | +126 | IDE for the AI Agents Era - Run an army of Claude Code, Code |
-| 14 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98,526 | +116 | Collection of awesome LLM apps with AI Agents and RAG using  |
-| 15 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 16,868 | +111 | A lightweight alternative to Clawdbot / OpenClaw that runs i |
-| 16 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 17,545 | +110 | The Ultimate Collection of 900+ Agentic Skills for Claude Co |
-| 17 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 3,344 | +108 | Give your AI agent eyes to see the entire internet. Read & s |
-| 18 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 23,715 | +106 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 19 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 11,863 | +105 | Memory for 24/7 proactive agents like openclaw (moltbot, cla |
-| 20 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 19,766 | +99 | Bash is all you need -  A nano Claude Code–like agent, built |
+| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,024 | +191 | 🌊 The leading agent orchestration platform for Claude. Deplo |
+| 7 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 7,117 | +147 | GitNexus: The Zero-Server Code Intelligence Engine -       G |
+| 8 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 9,999 | +140 | A set of ready to use Agent Skills for research, science, en |
+| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 113,447 | +139 | The open source coding agent. |
+| 10 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 88,780 | +127 | Python tool for converting files and office documents to Mar |
+| 11 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,204 | +127 | Claude Code is an agentic coding tool that lives in your ter |
+| 12 | [superset-sh/superset](https://github.com/superset-sh/superset) | 2,709 | +126 | IDE for the AI Agents Era - Run an army of Claude Code, Code |
+| 13 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98,526 | +116 | Collection of awesome LLM apps with AI Agents and RAG using  |
+| 14 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 16,868 | +111 | A lightweight alternative to Clawdbot / OpenClaw that runs i |
+| 15 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 17,545 | +110 | The Ultimate Collection of 900+ Agentic Skills for Claude Co |
+| 16 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 3,344 | +108 | Give your AI agent eyes to see the entire internet. Read & s |
+| 17 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 23,715 | +106 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 18 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 11,863 | +105 | Memory for 24/7 proactive agents like openclaw (moltbot, cla |
+| 19 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 19,766 | +99 | Bash is all you need -  A nano Claude Code–like agent, built |
+| 20 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 126,734 | +98 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu |
 
 ---
 
@@ -556,4 +556,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-01 23:22:54</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-02 20:49:10</sub></p>

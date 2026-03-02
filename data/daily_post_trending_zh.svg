@@ -1,80 +1,81 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 718 718" width="718" height="718">
 <rect width="718" height="718" rx="10" fill="#ffffff"/>
-<text x="359.0" y="28" text-anchor="middle" fill="#000000" font-size="14" font-weight="bold">🔥 每日热门 (2026-03-01)</text>
-<rect x="24" y="48" width="670" height="32" fill="#f6f8fa" rx="4"/>
-<text x="44.0" y="70" text-anchor="middle" fill="#333333" font-size="11">#</text>
-<text x="174.0" y="70" text-anchor="middle" fill="#333333" font-size="11">项目</text>
-<text x="324.0" y="70" text-anchor="middle" fill="#333333" font-size="11">⭐</text>
-<text x="396.0" y="70" text-anchor="middle" fill="#333333" font-size="11">📈 日增</text>
-<text x="561.0" y="70" text-anchor="middle" fill="#333333" font-size="11">描述</text>
-<line x1="24" y1="80" x2="694" y2="80" stroke="#d0d7de" stroke-width="1"/>
-<text x="44.0" y="96" text-anchor="middle" fill="#000000" font-size="11">1</text>
-<text x="174.0" y="96" text-anchor="middle" fill="#000000" font-size="11">RightNow-AI/openfang</text>
-<text x="324.0" y="96" text-anchor="middle" fill="#000000" font-size="11">6,877</text>
-<text x="396.0" y="96" text-anchor="middle" fill="#000000" font-size="11">+483</text>
-<text x="561.0" y="96" text-anchor="middle" fill="#000000" font-size="11">开源代理操作系统</text>
-<line x1="24" y1="130" x2="694" y2="130" stroke="#d0d7de" stroke-width="0.5"/>
-<text x="44.0" y="142" text-anchor="middle" fill="#000000" font-size="11">2</text>
-<text x="174.0" y="142" text-anchor="middle" fill="#000000" font-size="11">affaan-m/everything-claud...</text>
-<text x="324.0" y="142" text-anchor="middle" fill="#000000" font-size="11">55,695</text>
-<text x="396.0" y="142" text-anchor="middle" fill="#000000" font-size="11">+354</text>
-<text x="561.0" y="142" text-anchor="middle" fill="#000000" font-size="11">经纪人利用性能优化系统,技能,本能,</text>
-<text x="561.0" y="156" text-anchor="middle" fill="#000000" font-size="11">记忆,安全,以及对克劳德代码,Cod</text>
-<line x1="24" y1="176" x2="694" y2="176" stroke="#d0d7de" stroke-width="0.5"/>
-<text x="44.0" y="188" text-anchor="middle" fill="#000000" font-size="11">3</text>
-<text x="174.0" y="188" text-anchor="middle" fill="#000000" font-size="11">alibaba/OpenSandbox</text>
-<text x="324.0" y="188" text-anchor="middle" fill="#000000" font-size="11">3,039</text>
-<text x="396.0" y="188" text-anchor="middle" fill="#000000" font-size="11">+283</text>
-<text x="561.0" y="188" text-anchor="middle" fill="#000000" font-size="11">开放Sandbox是一个用于人工智能</text>
-<text x="561.0" y="202" text-anchor="middle" fill="#000000" font-size="11">应用的一般用途沙盒平台,提供多语言S</text>
-<line x1="24" y1="222" x2="694" y2="222" stroke="#d0d7de" stroke-width="0.5"/>
-<text x="44.0" y="234" text-anchor="middle" fill="#000000" font-size="11">4</text>
-<text x="174.0" y="234" text-anchor="middle" fill="#000000" font-size="11">obra/superpowers</text>
-<text x="324.0" y="234" text-anchor="middle" fill="#000000" font-size="11">66,613</text>
-<text x="396.0" y="234" text-anchor="middle" fill="#000000" font-size="11">+255</text>
-<text x="561.0" y="234" text-anchor="middle" fill="#000000" font-size="11">提供一个有效的代理技能框架和软件开发</text>
-<text x="561.0" y="248" text-anchor="middle" fill="#000000" font-size="11">方法.</text>
-<line x1="24" y1="268" x2="694" y2="268" stroke="#d0d7de" stroke-width="0.5"/>
-<text x="44.0" y="280" text-anchor="middle" fill="#000000" font-size="11">5</text>
-<text x="174.0" y="280" text-anchor="middle" fill="#000000" font-size="11">block/goose</text>
-<text x="324.0" y="280" text-anchor="middle" fill="#000000" font-size="11">31,837</text>
-<text x="396.0" y="280" text-anchor="middle" fill="#000000" font-size="11">+234</text>
-<text x="561.0" y="280" text-anchor="middle" fill="#000000" font-size="11">开源,可扩展的AI代理,超越代码建议</text>
-<text x="561.0" y="294" text-anchor="middle" fill="#000000" font-size="11"> - 安装,执行,编辑和测试任何LL</text>
-<line x1="24" y1="314" x2="694" y2="314" stroke="#d0d7de" stroke-width="0.5"/>
-<text x="44.0" y="326" text-anchor="middle" fill="#000000" font-size="11">6</text>
-<text x="174.0" y="326" text-anchor="middle" fill="#000000" font-size="11">nicobailon/visual-explainer</text>
-<text x="324.0" y="326" text-anchor="middle" fill="#000000" font-size="11">3,809</text>
-<text x="396.0" y="326" text-anchor="middle" fill="#000000" font-size="11">+208</text>
-<text x="561.0" y="326" text-anchor="middle" fill="#000000" font-size="11">代理技能,生成丰富的HTML页面或幻</text>
-<text x="561.0" y="340" text-anchor="middle" fill="#000000" font-size="11">灯片,用于图表,差异评价,计划审计,</text>
-<line x1="24" y1="360" x2="694" y2="360" stroke="#d0d7de" stroke-width="0.5"/>
-<text x="44.0" y="372" text-anchor="middle" fill="#000000" font-size="11">7</text>
-<text x="174.0" y="372" text-anchor="middle" fill="#000000" font-size="11">ruvnet/ruflo</text>
-<text x="324.0" y="372" text-anchor="middle" fill="#000000" font-size="11">17,024</text>
-<text x="396.0" y="372" text-anchor="middle" fill="#000000" font-size="11">+191</text>
-<text x="561.0" y="372" text-anchor="middle" fill="#000000" font-size="11"> 克劳德的领先代理配套平台.部署智能</text>
-<text x="561.0" y="386" text-anchor="middle" fill="#000000" font-size="11">多代理群体,协调自主工作流程,构建对</text>
-<line x1="24" y1="406" x2="694" y2="406" stroke="#d0d7de" stroke-width="0.5"/>
-<text x="44.0" y="418" text-anchor="middle" fill="#000000" font-size="11">8</text>
-<text x="174.0" y="418" text-anchor="middle" fill="#000000" font-size="11">abhigyanpatwari/GitNexus</text>
-<text x="324.0" y="418" text-anchor="middle" fill="#000000" font-size="11">7,117</text>
-<text x="396.0" y="418" text-anchor="middle" fill="#000000" font-size="11">+147</text>
-<text x="561.0" y="418" text-anchor="middle" fill="#000000" font-size="11">吉特尼克斯:零服务器代码智能引擎</text>
-<text x="561.0" y="432" text-anchor="middle" fill="#000000" font-size="11">- GitNexus是一个客户端知识图</text>
-<line x1="24" y1="452" x2="694" y2="452" stroke="#d0d7de" stroke-width="0.5"/>
-<text x="44.0" y="464" text-anchor="middle" fill="#000000" font-size="11">9</text>
-<text x="174.0" y="464" text-anchor="middle" fill="#000000" font-size="11">K-Dense-AI/claude-scienti...</text>
-<text x="324.0" y="464" text-anchor="middle" fill="#000000" font-size="11">9,999</text>
-<text x="396.0" y="464" text-anchor="middle" fill="#000000" font-size="11">+140</text>
-<text x="561.0" y="464" text-anchor="middle" fill="#000000" font-size="11">准备用于研究,科学,工程,分析,金融</text>
-<text x="561.0" y="478" text-anchor="middle" fill="#000000" font-size="11">和写作的代理技能.</text>
-<line x1="24" y1="498" x2="694" y2="498" stroke="#d0d7de" stroke-width="0.5"/>
-<text x="44.0" y="510" text-anchor="middle" fill="#000000" font-size="11">10</text>
-<text x="174.0" y="510" text-anchor="middle" fill="#000000" font-size="11">anomalyco/opencode</text>
-<text x="324.0" y="510" text-anchor="middle" fill="#000000" font-size="11">113,447</text>
-<text x="396.0" y="510" text-anchor="middle" fill="#000000" font-size="11">+139</text>
-<text x="561.0" y="510" text-anchor="middle" fill="#000000" font-size="11">开源编码代理.</text>
-<line x1="24" y1="544" x2="694" y2="544" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="359.0" y="24" text-anchor="middle" fill="#000000" font-size="14" font-weight="bold">Awesome AI Agents</text>
+<text x="359.0" y="42" text-anchor="middle" fill="#333333" font-size="10">每日热门 (2026-03-02)</text>
+<rect x="24" y="56" width="670" height="32" fill="#f6f8fa" rx="4"/>
+<text x="44.0" y="78" text-anchor="middle" fill="#333333" font-size="11">#</text>
+<text x="174.0" y="78" text-anchor="middle" fill="#333333" font-size="11">项目</text>
+<text x="324.0" y="78" text-anchor="middle" fill="#333333" font-size="11">⭐</text>
+<text x="396.0" y="78" text-anchor="middle" fill="#333333" font-size="11">📈 日增</text>
+<text x="561.0" y="78" text-anchor="middle" fill="#333333" font-size="11">描述</text>
+<line x1="24" y1="88" x2="694" y2="88" stroke="#d0d7de" stroke-width="1"/>
+<text x="44.0" y="104" text-anchor="middle" fill="#000000" font-size="11">1</text>
+<text x="174.0" y="104" text-anchor="middle" fill="#000000" font-size="11">RightNow-AI/openfang</text>
+<text x="324.0" y="104" text-anchor="middle" fill="#000000" font-size="11">6,877</text>
+<text x="396.0" y="104" text-anchor="middle" fill="#000000" font-size="11">+483</text>
+<text x="561.0" y="104" text-anchor="middle" fill="#000000" font-size="11">开源代理操作系统</text>
+<line x1="24" y1="138" x2="694" y2="138" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="150" text-anchor="middle" fill="#000000" font-size="11">2</text>
+<text x="174.0" y="150" text-anchor="middle" fill="#000000" font-size="11">affaan-m/everything-claud...</text>
+<text x="324.0" y="150" text-anchor="middle" fill="#000000" font-size="11">55,695</text>
+<text x="396.0" y="150" text-anchor="middle" fill="#000000" font-size="11">+354</text>
+<text x="561.0" y="150" text-anchor="middle" fill="#000000" font-size="11">经纪人利用性能优化系统,技能,本能,</text>
+<text x="561.0" y="164" text-anchor="middle" fill="#000000" font-size="11">记忆,安全,以及对克劳德代码,Cod</text>
+<line x1="24" y1="184" x2="694" y2="184" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="196" text-anchor="middle" fill="#000000" font-size="11">3</text>
+<text x="174.0" y="196" text-anchor="middle" fill="#000000" font-size="11">alibaba/OpenSandbox</text>
+<text x="324.0" y="196" text-anchor="middle" fill="#000000" font-size="11">3,039</text>
+<text x="396.0" y="196" text-anchor="middle" fill="#000000" font-size="11">+283</text>
+<text x="561.0" y="196" text-anchor="middle" fill="#000000" font-size="11">开放Sandbox是一个用于人工智能</text>
+<text x="561.0" y="210" text-anchor="middle" fill="#000000" font-size="11">应用的一般用途沙盒平台,提供多语言S</text>
+<line x1="24" y1="230" x2="694" y2="230" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="242" text-anchor="middle" fill="#000000" font-size="11">4</text>
+<text x="174.0" y="242" text-anchor="middle" fill="#000000" font-size="11">obra/superpowers</text>
+<text x="324.0" y="242" text-anchor="middle" fill="#000000" font-size="11">66,613</text>
+<text x="396.0" y="242" text-anchor="middle" fill="#000000" font-size="11">+255</text>
+<text x="561.0" y="242" text-anchor="middle" fill="#000000" font-size="11">提供一个有效的代理技能框架和软件开发</text>
+<text x="561.0" y="256" text-anchor="middle" fill="#000000" font-size="11">方法.</text>
+<line x1="24" y1="276" x2="694" y2="276" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="288" text-anchor="middle" fill="#000000" font-size="11">5</text>
+<text x="174.0" y="288" text-anchor="middle" fill="#000000" font-size="11">block/goose</text>
+<text x="324.0" y="288" text-anchor="middle" fill="#000000" font-size="11">31,837</text>
+<text x="396.0" y="288" text-anchor="middle" fill="#000000" font-size="11">+234</text>
+<text x="561.0" y="288" text-anchor="middle" fill="#000000" font-size="11">开源,可扩展的AI代理,超越代码建议</text>
+<text x="561.0" y="302" text-anchor="middle" fill="#000000" font-size="11"> - 安装,执行,编辑和测试任何LL</text>
+<line x1="24" y1="322" x2="694" y2="322" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="334" text-anchor="middle" fill="#000000" font-size="11">6</text>
+<text x="174.0" y="334" text-anchor="middle" fill="#000000" font-size="11">nicobailon/visual-explainer</text>
+<text x="324.0" y="334" text-anchor="middle" fill="#000000" font-size="11">3,809</text>
+<text x="396.0" y="334" text-anchor="middle" fill="#000000" font-size="11">+208</text>
+<text x="561.0" y="334" text-anchor="middle" fill="#000000" font-size="11">代理技能,生成丰富的HTML页面或幻</text>
+<text x="561.0" y="348" text-anchor="middle" fill="#000000" font-size="11">灯片,用于图表,差异评价,计划审计,</text>
+<line x1="24" y1="368" x2="694" y2="368" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="380" text-anchor="middle" fill="#000000" font-size="11">7</text>
+<text x="174.0" y="380" text-anchor="middle" fill="#000000" font-size="11">ruvnet/ruflo</text>
+<text x="324.0" y="380" text-anchor="middle" fill="#000000" font-size="11">17,024</text>
+<text x="396.0" y="380" text-anchor="middle" fill="#000000" font-size="11">+191</text>
+<text x="561.0" y="380" text-anchor="middle" fill="#000000" font-size="11"> 克劳德的领先代理配套平台.部署智能</text>
+<text x="561.0" y="394" text-anchor="middle" fill="#000000" font-size="11">多代理群体,协调自主工作流程,构建对</text>
+<line x1="24" y1="414" x2="694" y2="414" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="426" text-anchor="middle" fill="#000000" font-size="11">8</text>
+<text x="174.0" y="426" text-anchor="middle" fill="#000000" font-size="11">abhigyanpatwari/GitNexus</text>
+<text x="324.0" y="426" text-anchor="middle" fill="#000000" font-size="11">7,117</text>
+<text x="396.0" y="426" text-anchor="middle" fill="#000000" font-size="11">+147</text>
+<text x="561.0" y="426" text-anchor="middle" fill="#000000" font-size="11">吉特尼克斯:零服务器代码智能引擎</text>
+<text x="561.0" y="440" text-anchor="middle" fill="#000000" font-size="11">- GitNexus是一个客户端知识图</text>
+<line x1="24" y1="460" x2="694" y2="460" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="472" text-anchor="middle" fill="#000000" font-size="11">9</text>
+<text x="174.0" y="472" text-anchor="middle" fill="#000000" font-size="11">K-Dense-AI/claude-scienti...</text>
+<text x="324.0" y="472" text-anchor="middle" fill="#000000" font-size="11">9,999</text>
+<text x="396.0" y="472" text-anchor="middle" fill="#000000" font-size="11">+140</text>
+<text x="561.0" y="472" text-anchor="middle" fill="#000000" font-size="11">准备用于研究,科学,工程,分析,金融</text>
+<text x="561.0" y="486" text-anchor="middle" fill="#000000" font-size="11">和写作的代理技能.</text>
+<line x1="24" y1="506" x2="694" y2="506" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="518" text-anchor="middle" fill="#000000" font-size="11">10</text>
+<text x="174.0" y="518" text-anchor="middle" fill="#000000" font-size="11">anomalyco/opencode</text>
+<text x="324.0" y="518" text-anchor="middle" fill="#000000" font-size="11">113,447</text>
+<text x="396.0" y="518" text-anchor="middle" fill="#000000" font-size="11">+139</text>
+<text x="561.0" y="518" text-anchor="middle" fill="#000000" font-size="11">开源编码代理.</text>
+<line x1="24" y1="552" x2="694" y2="552" stroke="#d0d7de" stroke-width="0.5"/>
 <a xlink:href="https://github.com/lllray/awesome-ai-agents"><text x="694" y="708" text-anchor="end" fill="#57606a" font-size="10">github.com/lllray/awesome-ai-agents</text></a>
 </svg>
