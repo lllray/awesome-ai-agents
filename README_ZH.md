@@ -35,26 +35,26 @@
 
 | # | 项目 | ⭐ | 📈 日增 | 描述 |
 |:-:|------|---:|-------:|------|
-| 1 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 8,770 | +1893 | Open-source Agent Operating System |
-| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 56,895 | +1200 | The agent harness performance optimization system.... |
+| 1 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 8,770 | +1893 | 开源智能体操作系统 |
+| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 56,895 | +1200 | 智能体性能优化系统。为Claude Code、Codex、Cowork等提供技能、本能、记忆、安全及... |
 | 3 | [obra/superpowers](https://github.com/obra/superpowers) | 67,761 | +1148 | 一个有效的智能体技能框架与软件开发方法论。 |
-| 4 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 7,948 | +831 | GitNexus: The Zero-Server Code Intelligence Engine... |
-| 5 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 3,859 | +820 | OpenSandbox is a general-purpose sandbox platform ... |
-| 6 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 10,777 | +778 | A set of ready to use Agent Skills for research, s... |
-| 7 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,746 | +722 | 🌊 The leading agent orchestration platform for Cla... |
+| 4 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 7,948 | +831 | GitNexus：零服务器代码智能引擎——完全在浏览器中运行的客户端知识图谱构建工具。只需拖入Git... |
+| 5 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 3,859 | +820 | OpenSandbox是一个通用的AI应用沙箱平台，提供多语言SDK、统一的沙箱API以及Docke... |
+| 6 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 10,777 | +778 | 一套即用型智能体技能集，涵盖研究、科学、工程、分析、金融和写作领域。 |
+| 7 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,746 | +722 | 🌊 Claude的领先智能体编排平台。部署智能多智能体集群，协调自主工作流，构建对话式AI系统。特性... |
 | 8 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 24,435 | +720 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 114,127 | +680 | 开源编码智能体。 |
-| 10 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 17,467 | +599 | A lightweight alternative to Clawdbot / OpenClaw t... |
-| 11 | [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) | 1,156 | +595 | A pixel office for your AI crew: turn invisible wo... |
-| 12 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 89,356 | +576 | 用于将文件和办公文档转换为Markdown的Python工具。 |
-| 13 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 23,374 | +550 | An open-source SuperAgent harness that researches,... |
-| 14 | [superset-sh/superset](https://github.com/superset-sh/superset) | 3,249 | +540 | IDE for the AI Agents Era - Run an army of Claude ... |
-| 15 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 20,297 | +531 | Bash is all you need -  A nano Claude Code–like ag... |
-| 16 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 99,044 | +518 | 使用OpenAI、Anthropic、Gemini及开源模型，汇集了出色的LLM应用，包含AI智能体... |
-| 17 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 52,406 | +465 | 12 Lessons to Get Started Building AI Agents |
-| 18 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 12,318 | +455 | Memory for 24/7 proactive agents like openclaw (mo... |
-| 19 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 18,807 | +431 | AI agent toolkit: coding agent CLI, unified LLM AP... |
-| 20 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,623 | +419 | Claude Code是一个智能编码工具，驻留在您的终端中，理解您的代码库，并通过执行常规任务、解释... |
+| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 114,127 | +680 | 开源编程智能体。 |
+| 10 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 17,467 | +599 | Clawdbot/OpenClaw的轻量级替代方案，在容器中运行以确保安全。支持连接WhatsApp... |
+| 11 | [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) | 1,156 | +595 | 为AI团队打造的像素风办公室：将无形的工作状态转化为拥有角色、每日笔记和访客智能体的温馨空间。代码遵... |
+| 12 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 89,356 | +576 | Python工具，用于将文件和办公文档转换为Markdown格式。 |
+| 13 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 23,374 | +550 | 开源SuperAgent框架，具备研究、编程和创作能力。借助沙盒、记忆模块、工具、技能和子智能体，它... |
+| 14 | [superset-sh/superset](https://github.com/superset-sh/superset) | 3,249 | +540 | AI智能体时代的集成开发环境——在您的机器上运行Claude Code、Codex等智能体大军 |
+| 15 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 20,297 | +531 | Bash就是您所需的一切——一个从零到一构建的类Claude Code纳米智能体 |
+| 16 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 99,044 | +518 | Awesome LLM应用合集，涵盖AI智能体和RAG技术，使用OpenAI、Anthropic、G... |
+| 17 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 52,406 | +465 | 12节入门课程，助你开始构建AI智能体。 |
+| 18 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 12,318 | +455 | 为全天候主动智能体（如openclaw、moltbot、clawdbot）提供记忆功能。 |
+| 19 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 18,807 | +431 | AI智能体工具包：编程智能体CLI、统一LLM API、TUI与Web UI库、Slack机器人、v... |
+| 20 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,623 | +419 | Claude Code是一款终端内的智能编程工具，它能理解你的代码库，通过自然语言命令执行常规任务、... |
 
 ---
 
@@ -564,4 +564,4 @@ git clone https://github.com/lllray/awesome-ai-agents.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-02 21:38:24</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-02 22:01:56</sub></p>

@@ -42,7 +42,7 @@
 | 5 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 3,859 | +820 | OpenSandbox is a general-purpose sandbox platform for AI app |
 | 6 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 10,777 | +778 | A set of ready to use Agent Skills for research, science, en |
 | 7 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,746 | +722 | 🌊 The leading agent orchestration platform for Claude. Deplo |
-| 8 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 24,435 | +720 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 8 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 24,435 | +720 | 📚 "Building Intelligent Agents from Scratch" – A Beginner's  |
 | 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 114,127 | +680 | The open source coding agent. |
 | 10 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 17,467 | +599 | A lightweight alternative to Clawdbot / OpenClaw that runs i |
 | 11 | [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) | 1,156 | +595 | A pixel office for your AI crew: turn invisible work states  |
@@ -556,4 +556,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-02 21:38:24</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-02 22:01:56</sub></p>
