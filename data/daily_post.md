@@ -1,11 +1,11 @@
 # Daily Report 2026-03-04
 - Repo: Awesome AI Agents
-- New: 3220 | Total: 3220 | Stars: 9,347,692
+- New: 3344 | Total: 3344 | Stars: 9,425,616
 - Link: https://github.com/lllray/awesome-ai-agents
 
-## Top 5 New
-1. [langflow-ai/langflow](https://github.com/langflow-ai/langflow) 145,247⭐ — Langflow is a powerful tool for building and deploying AI-powered agents and wor
-2. [langgenius/dify](https://github.com/langgenius/dify) 131,176⭐ — Production-ready platform for agentic workflow development.
-3. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) 128,181⭐ — The agent engineering platform
-4. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) 127,787⭐ — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
-5. [anomalyco/opencode](https://github.com/anomalyco/opencode) 115,690⭐ — The open source coding agent.
+## Top 5 Trending
+1. [obra/superpowers](https://github.com/obra/superpowers) +88⭐ — An agentic skills framework & software development methodology that works.
+2. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) +71⭐ — The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Curso
+3. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) +66⭐ — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
+4. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +58⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
+5. [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) +40⭐ — A set of ready to use Agent Skills for research, science, engineering, analysis,
