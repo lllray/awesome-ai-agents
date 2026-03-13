@@ -1,11 +1,11 @@
-# Daily Report 2026-03-12
+# Daily Report 2026-03-13
 - Repo: Awesome AI Agents
-- New: 18 | Total: 3471 | Stars: 9,980,085
+- New: 17 | Total: 3488 | Stars: 10,054,372
 - Link: https://github.com/lllray/awesome-ai-agents
 
 ## Top 5 Trending
-1. [karpathy/autoresearch](https://github.com/karpathy/autoresearch) +2568⭐ — AI agents running research on single-GPU nanochat training automatically
-2. [obra/superpowers](https://github.com/obra/superpowers) +1675⭐ — An agentic skills framework & software development methodology that works.
-3. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) +1634⭐ — Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, pl
-4. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +1530⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
-5. [alibaba/page-agent](https://github.com/alibaba/page-agent) +1178⭐ — JavaScript in-page GUI agent. Control web interfaces with natural language.
+1. [karpathy/autoresearch](https://github.com/karpathy/autoresearch) +2738⭐ — AI agents running research on single-GPU nanochat training automatically
+2. [volcengine/OpenViking](https://github.com/volcengine/OpenViking) +2070⭐ — OpenViking is an open-source context database designed specifically for AI Agent
+3. [obra/superpowers](https://github.com/obra/superpowers) +2064⭐ — An agentic skills framework & software development methodology that works.
+4. [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) +1753⭐ — Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerabili
+5. [alibaba/page-agent](https://github.com/alibaba/page-agent) +1465⭐ — JavaScript in-page GUI agent. Control web interfaces with natural language.
