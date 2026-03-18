@@ -1,11 +1,11 @@
-# 每日报告 2026-03-17
+# 每日报告 2026-03-18
 - 仓库: Awesome AI Agents
-- 今日新增: 18 | 总数: 3543 | Stars: 10,311,006
+- 今日新增: 9 | 总数: 3552 | Stars: 10,375,437
 - 链接: https://github.com/lllray/awesome-ai-agents
 
 ## 热门 Top 5
-1. [obra/superpowers](https://github.com/obra/superpowers) +3068⭐ — An agentic skills framework & software development methodology that works.
-2. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +2795⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
-3. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) +2127⭐ — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning 
-4. [karpathy/autoresearch](https://github.com/karpathy/autoresearch) +2012⭐ — AI agents running research on single-GPU nanochat training automatically
-5. [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) +1502⭐ — ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research
+1. [obra/superpowers](https://github.com/obra/superpowers) +3989⭐ — An agentic skills framework & software development methodology that works.
+2. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) +2889⭐ — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning 
+3. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +2427⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
+4. [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) +1825⭐ — 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agent
+5. [karpathy/autoresearch](https://github.com/karpathy/autoresearch) +1784⭐ — AI agents running research on single-GPU nanochat training automatically
