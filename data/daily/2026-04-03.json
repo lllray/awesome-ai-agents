@@ -1,0 +1,358 @@
+{
+  "date": "2026-04-03",
+  "total_skills": 3790,
+  "total_stars": 11866813,
+  "new_today": 13,
+  "top_gainers": [
+    {
+      "name": "tvytlx/ai-agent-deep-dive",
+      "stars": 4901,
+      "delta": 2741,
+      "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "description": "Claude Code 源码深度研究报告"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": 107561,
+      "delta": 2521,
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "stars": 135155,
+      "delta": 2491,
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "stars": 4267,
+      "delta": 2002,
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 133322,
+      "delta": 1859,
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": 23278,
+      "delta": 1110,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "stars": 22756,
+      "delta": 1102,
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code"
+    },
+    {
+      "name": "jackwener/opencli",
+      "stars": 12241,
+      "delta": 1056,
+      "url": "https://github.com/jackwener/opencli",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration."
+    },
+    {
+      "name": "karpathy/autoresearch",
+      "stars": 64746,
+      "delta": 841,
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "stars": 136275,
+      "delta": 831,
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent."
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "stars": 17340,
+      "delta": 772,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+    },
+    {
+      "name": "code-yeongyu/oh-my-openagent",
+      "stars": 47542,
+      "delta": 734,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "description": "omo; the best agent harness - previously oh-my-opencode"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": 69374,
+      "delta": 715,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "stars": 47703,
+      "delta": 707,
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "stars": 57099,
+      "delta": 631,
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "stars": 103378,
+      "delta": 551,
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "🔥 The Web Data API for AI - Power AI agents with clean web data"
+    },
+    {
+      "name": "Kuberwastaken/claurst",
+      "stars": 7591,
+      "delta": 544,
+      "url": "https://github.com/Kuberwastaken/claurst",
+      "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "stars": 46468,
+      "delta": 496,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "block/goose",
+      "stars": 34413,
+      "delta": 479,
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    },
+    {
+      "name": "epiral/bb-browser",
+      "stars": 3981,
+      "delta": 464,
+      "url": "https://github.com/epiral/bb-browser",
+      "description": "AI Agent browser automation CLI - control Chrome with user's login state"
+    },
+    {
+      "name": "yasasbanukaofficial/claude-code",
+      "stars": 1070,
+      "delta": 454,
+      "url": "https://github.com/yasasbanukaofficial/claude-code",
+      "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
+    },
+    {
+      "name": "openai/codex",
+      "stars": 72833,
+      "delta": 447,
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal"
+    },
+    {
+      "name": "hsliuping/TradingAgents-CN",
+      "stars": 23203,
+      "delta": 443,
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版"
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "stars": 30902,
+      "delta": 418,
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "stars": 17901,
+      "delta": 376,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "nexu-io/nexu",
+      "stars": 2097,
+      "delta": 370,
+      "url": "https://github.com/nexu-io/nexu",
+      "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, local-first, chat from your phone 24/7."
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "stars": 36088,
+      "delta": 368,
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic"
+    },
+    {
+      "name": "code-yeongyu/oh-my-opencode",
+      "stars": 37503,
+      "delta": 353,
+      "url": "https://github.com/code-yeongyu/oh-my-opencode",
+      "description": "the best agent harness"
+    },
+    {
+      "name": "JackChen-me/open-multi-agent",
+      "stars": 2868,
+      "delta": 346,
+      "url": "https://github.com/JackChen-me/open-multi-agent",
+      "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication."
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "stars": 16536,
+      "delta": 318,
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+    },
+    {
+      "name": "lintsinghua/claude-code-book",
+      "stars": 1630,
+      "delta": 316,
+      "url": "https://github.com/lintsinghua/claude-code-book",
+      "description": "42万字拆解 AI Agent 的骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站："
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 14817,
+      "delta": 314,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "larksuite/cli",
+      "stars": 6454,
+      "delta": 301,
+      "url": "https://github.com/larksuite/cli",
+      "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "stars": 9089,
+      "delta": 295,
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "stars": 59164,
+      "delta": 294,
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM."
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "stars": 33421,
+      "delta": 293,
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    },
+    {
+      "name": "tanweai/pua",
+      "stars": 14917,
+      "delta": 283,
+      "url": "https://github.com/tanweai/pua",
+      "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": 44823,
+      "delta": 261,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "sickn33/antigravity-awesome-skills",
+      "stars": 30225,
+      "delta": 261,
+      "url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "description": "The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel."
+    },
+    {
+      "name": "kepano/obsidian-skills",
+      "stars": 19151,
+      "delta": 259,
+      "url": "https://github.com/kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI."
+    },
+    {
+      "name": "bcurts/agentchattr",
+      "stars": 645,
+      "delta": 248,
+      "url": "https://github.com/bcurts/agentchattr",
+      "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": 55623,
+      "delta": 243,
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
+    },
+    {
+      "name": "langchain-ai/deepagents",
+      "stars": 18968,
+      "delta": 240,
+      "url": "https://github.com/langchain-ai/deepagents",
+      "description": "Deep Agents is an agent harness built on langchain and langgraph. Deep Agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to handle complex agentic tasks."
+    },
+    {
+      "name": "waoowaooAI/waoowaoo",
+      "stars": 8507,
+      "delta": 238,
+      "url": "https://github.com/waoowaooAI/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows."
+    },
+    {
+      "name": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+      "stars": 459,
+      "delta": 238,
+      "url": "https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+      "description": "面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-driven workflows."
+    },
+    {
+      "name": "tanbiralam/claude-code",
+      "stars": 1044,
+      "delta": 237,
+      "url": "https://github.com/tanbiralam/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+    },
+    {
+      "name": "codeaashu/claude-code",
+      "stars": 1098,
+      "delta": 235,
+      "url": "https://github.com/codeaashu/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "stars": 18566,
+      "delta": 222,
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+    },
+    {
+      "name": "sanbuphy/learn-coding-agent",
+      "stars": 11124,
+      "delta": 210,
+      "url": "https://github.com/sanbuphy/learn-coding-agent",
+      "description": "Research on Coding Agents"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "stars": 20732,
+      "delta": 209,
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving."
+    }
+  ]
+}
