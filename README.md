@@ -540,6 +540,7 @@
 | [rivet-dev/rivet](https://github.com/rivet-dev/rivet) | 5,525 | Rust | Rivet Actors are the primitive for stateful workloads. Built for AI ag |
 | [modelscope/FunClip](https://github.com/modelscope/FunClip) | 5,379 | Python | Open-source, accurate and easy-to-use video speech recognition & clipp |
 | [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 5,154 | Python | Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible |
+| [nowork-studio/toprank](https://github.com/nowork-studio/toprank) | NotFair Google Ads MCP server. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ---
 
