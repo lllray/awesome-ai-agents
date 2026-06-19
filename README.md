@@ -540,6 +540,7 @@
 | [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) | 6,534 | - | A curated list of GPT agents for cybersecurity |
 | [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) | 6,525 | Python | This is an AI agent for Street Fighter II Champion Edition. |
 | [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) | 6,306 | Rust | The live data layer for apps and AI agents. Create up-to-the-second vi |
+| [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | 2,924 | TypeScript | Open-source Claude Code skills for SEO, Google Ads, and Meta Ads — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. |
 
 ---
 
