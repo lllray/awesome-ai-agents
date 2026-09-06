@@ -1,0 +1,358 @@
+{
+  "date": "2026-09-06",
+  "total_skills": 5431,
+  "total_stars": 21449102,
+  "new_today": 7,
+  "top_gainers": [
+    {
+      "name": "nirholas/claude-code",
+      "stars": 6368,
+      "delta": 6062,
+      "url": "https://github.com/nirholas/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "chopratejas/headroom",
+      "stars": 42897,
+      "delta": 2527,
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "The Context Optimization Layer for LLM Applications"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 128668,
+      "delta": 1504,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "block/goose",
+      "stars": 37609,
+      "delta": 1467,
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 250497,
+      "delta": 1419,
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "tt-a1i/archify",
+      "stars": 50167,
+      "delta": 1368,
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "stars": 186220,
+      "delta": 989,
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
+    },
+    {
+      "name": "Ataraxy-Labs/sem",
+      "stars": 2891,
+      "delta": 934,
+      "url": "https://github.com/Ataraxy-Labs/sem",
+      "description": "Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents."
+    },
+    {
+      "name": "h4ckf0r0day/obscura",
+      "stars": 26062,
+      "delta": 812,
+      "url": "https://github.com/h4ckf0r0day/obscura",
+      "description": "The headless browser for AI agents and web scraping"
+    },
+    {
+      "name": "blader/humanizer",
+      "stars": 43857,
+      "delta": 742,
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text"
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "stars": 3431,
+      "delta": 595,
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline."
+    },
+    {
+      "name": "anomalyco/opencode",
+      "stars": 204942,
+      "delta": 525,
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent."
+    },
+    {
+      "name": "stablyai/orca",
+      "stars": 62514,
+      "delta": 523,
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the next-gen IDE for building with coding agents"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": 242248,
+      "delta": 503,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "stars": 125534,
+      "delta": 489,
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "🔥 The Web Data API for AI - Power AI agents with clean web data"
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "stars": 32208,
+      "delta": 487,
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "stars": 45783,
+      "delta": 468,
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "stars": 22209,
+      "delta": 446,
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "name": "jackwener/opencli",
+      "stars": 13928,
+      "delta": 382,
+      "url": "https://github.com/jackwener/opencli",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration."
+    },
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "stars": 33734,
+      "delta": 362,
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal"
+    },
+    {
+      "name": "code-yeongyu/oh-my-opencode",
+      "stars": 37503,
+      "delta": 353,
+      "url": "https://github.com/code-yeongyu/oh-my-opencode",
+      "description": "the best agent harness"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "stars": 43158,
+      "delta": 349,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "NanoNets/Graft",
+      "stars": 4669,
+      "delta": 349,
+      "url": "https://github.com/NanoNets/Graft",
+      "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase."
+    },
+    {
+      "name": "XingYu-Zhong/DeepSeek-GUI",
+      "stars": 3567,
+      "delta": 345,
+      "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
+      "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application."
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "stars": 47261,
+      "delta": 306,
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 282241,
+      "delta": 300,
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "earendil-works/pi",
+      "stars": 102276,
+      "delta": 273,
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "rcortx/kiwiq",
+      "stars": 2204,
+      "delta": 269,
+      "url": "https://github.com/rcortx/kiwiq",
+      "description": "Production-grade multi-agent orchestration platform - JSON-defined agents, multi-tier memory, and built-in observability. Battle-tested on 200+ enterprise AI agents. Now fully open-sourced (prod at https://kiwiq.ai)."
+    },
+    {
+      "name": "leigest519/OpenGame",
+      "stars": 2439,
+      "delta": 268,
+      "url": "https://github.com/leigest519/OpenGame",
+      "description": "OpenGame: Open Agentic Coding for Games"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "stars": 70819,
+      "delta": 263,
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "stars": 84738,
+      "delta": 253,
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\""
+    },
+    {
+      "name": "ConardLi/web-design-skill",
+      "stars": 1149,
+      "delta": 249,
+      "url": "https://github.com/ConardLi/web-design-skill",
+      "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)"
+    },
+    {
+      "name": "bcurts/agentchattr",
+      "stars": 645,
+      "delta": 248,
+      "url": "https://github.com/bcurts/agentchattr",
+      "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
+    },
+    {
+      "name": "majidmanzarpour/threejs-game-skills",
+      "stars": 1654,
+      "delta": 247,
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets."
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "stars": 32726,
+      "delta": 239,
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "name": "waoowaooAI/waoowaoo",
+      "stars": 8507,
+      "delta": 238,
+      "url": "https://github.com/waoowaooAI/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows."
+    },
+    {
+      "name": "K-Dense-AI/claude-scientific-skills",
+      "stars": 17789,
+      "delta": 221,
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "openai/codex",
+      "stars": 121878,
+      "delta": 216,
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal"
+    },
+    {
+      "name": "herdrdev/herdr",
+      "stars": 35656,
+      "delta": 210,
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "the runtime your coding agents live on"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "stars": 44278,
+      "delta": 209,
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "stars": 52333,
+      "delta": 202,
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 78338,
+      "delta": 201,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": 136326,
+      "delta": 192,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "stars": 30105,
+      "delta": 189,
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+    },
+    {
+      "name": "Narcooo/inkos",
+      "stars": 9233,
+      "delta": 186,
+      "url": "https://github.com/Narcooo/inkos",
+      "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates"
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "stars": 114380,
+      "delta": 176,
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
+    },
+    {
+      "name": "nexu-io/open-design",
+      "stars": 94369,
+      "delta": 175,
+      "url": "https://github.com/nexu-io/open-design",
+      "description": "🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": 178427,
+      "delta": 171,
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "yologdev/yoyo-evolve",
+      "stars": 1676,
+      "delta": 171,
+      "url": "https://github.com/yologdev/yoyo-evolve",
+      "description": "A coding agent that evolves itself. One commit per day."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": 150338,
+      "delta": 164,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    }
+  ]
+}
