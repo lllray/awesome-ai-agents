@@ -1,0 +1,358 @@
+{
+  "date": "2026-11-12",
+  "total_skills": 6162,
+  "total_stars": 26974408,
+  "new_today": 5,
+  "top_gainers": [
+    {
+      "name": "feder-cr/dots",
+      "stars": 31782,
+      "delta": 29154,
+      "url": "https://github.com/feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked."
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "stars": 18168,
+      "delta": 9155,
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory"
+    },
+    {
+      "name": "nirholas/claude-code",
+      "stars": 6368,
+      "delta": 6062,
+      "url": "https://github.com/nirholas/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "morluto/rea",
+      "stars": 454165,
+      "delta": 2676,
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+    },
+    {
+      "name": "chopratejas/headroom",
+      "stars": 42897,
+      "delta": 2527,
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "The Context Optimization Layer for LLM Applications"
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance",
+      "stars": 5970,
+      "delta": 2175,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "description": "Keep your coding agent up to date with the latest web best practices"
+    },
+    {
+      "name": "block/goose",
+      "stars": 37609,
+      "delta": 1467,
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "stars": 70983,
+      "delta": 1221,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行"
+    },
+    {
+      "name": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
+      "stars": 1603,
+      "delta": 1012,
+      "url": "https://github.com/AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
+      "description": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime."
+    },
+    {
+      "name": "stablyai/orca",
+      "stars": 122975,
+      "delta": 1011,
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the next-gen IDE for building with coding agents"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-Go",
+      "stars": 20371,
+      "delta": 1004,
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "stars": 186220,
+      "delta": 989,
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
+    },
+    {
+      "name": "Ataraxy-Labs/sem",
+      "stars": 2891,
+      "delta": 934,
+      "url": "https://github.com/Ataraxy-Labs/sem",
+      "description": "Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents."
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "stars": 70779,
+      "delta": 921,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "name": "Fei2411/DeepSeek-Bot",
+      "stars": 3815,
+      "delta": 819,
+      "url": "https://github.com/Fei2411/DeepSeek-Bot",
+      "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats."
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "stars": 149655,
+      "delta": 788,
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 116343,
+      "delta": 780,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "yetone/magpie",
+      "stars": 35238,
+      "delta": 772,
+      "url": "https://github.com/yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "stars": 108677,
+      "delta": 730,
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+    },
+    {
+      "name": "vercel-labs/agent-desktop",
+      "stars": 22473,
+      "delta": 706,
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels."
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 189484,
+      "delta": 703,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "h4ckf0r0day/obscura",
+      "stars": 33195,
+      "delta": 684,
+      "url": "https://github.com/h4ckf0r0day/obscura",
+      "description": "The headless browser for AI agents and web scraping"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "stars": 113918,
+      "delta": 670,
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\""
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "stars": 83195,
+      "delta": 646,
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 301680,
+      "delta": 636,
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "stars": 50171,
+      "delta": 581,
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents"
+    },
+    {
+      "name": "expo/exact",
+      "stars": 3194,
+      "delta": 579,
+      "url": "https://github.com/expo/exact",
+      "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 316545,
+      "delta": 525,
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "stars": 77979,
+      "delta": 522,
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "google/elephant-goldfish-model",
+      "stars": 17874,
+      "delta": 482,
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "description": "Open-source skills for designing and reviewing software with AI agents"
+    },
+    {
+      "name": "blader/humanizer",
+      "stars": 68247,
+      "delta": 476,
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text"
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "stars": 45783,
+      "delta": 468,
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "stars": 127168,
+      "delta": 448,
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "stars": 22209,
+      "delta": 446,
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "stars": 12101,
+      "delta": 439,
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
+    },
+    {
+      "name": "AgriciDaniel/claude-seo",
+      "stars": 28447,
+      "delta": 426,
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 13 sub-skills, 6 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning."
+    },
+    {
+      "name": "kuafuai/andee",
+      "stars": 5157,
+      "delta": 393,
+      "url": "https://github.com/kuafuai/andee",
+      "description": "It moves into your phone or Mac and uses any app the way you do. No integrations, no root, any model. Its memory and your passwords never leave the device."
+    },
+    {
+      "name": "jackwener/opencli",
+      "stars": 13928,
+      "delta": 382,
+      "url": "https://github.com/jackwener/opencli",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration."
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "stars": 201114,
+      "delta": 377,
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "🔥 The Web Data API for AI - Power AI agents with clean web data"
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "stars": 38650,
+      "delta": 375,
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": 116412,
+      "delta": 374,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "stars": 33734,
+      "delta": 362,
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal"
+    },
+    {
+      "name": "herdrdev/herdr",
+      "stars": 50508,
+      "delta": 360,
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "the runtime your coding agents live on"
+    },
+    {
+      "name": "code-yeongyu/oh-my-opencode",
+      "stars": 37503,
+      "delta": 353,
+      "url": "https://github.com/code-yeongyu/oh-my-opencode",
+      "description": "the best agent harness"
+    },
+    {
+      "name": "NanoNets/Graft",
+      "stars": 4669,
+      "delta": 349,
+      "url": "https://github.com/NanoNets/Graft",
+      "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase."
+    },
+    {
+      "name": "XingYu-Zhong/DeepSeek-GUI",
+      "stars": 3567,
+      "delta": 345,
+      "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
+      "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application."
+    },
+    {
+      "name": "CosmoBlk/email-marketing-bible",
+      "stars": 372,
+      "delta": 329,
+      "url": "https://github.com/CosmoBlk/email-marketing-bible",
+      "description": "Email marketing skill for Claude Code. 55K words, 908 sources, 19 industry playbooks. Install the skill and Claude becomes your email marketing expert."
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "stars": 11230,
+      "delta": 317,
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "stars": 76186,
+      "delta": 311,
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed"
+    },
+    {
+      "name": "OpenMontageInc/OpenMontage",
+      "stars": 79875,
+      "delta": 304,
+      "url": "https://github.com/OpenMontageInc/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+    }
+  ]
+}
